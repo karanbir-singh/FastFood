@@ -1,7 +1,7 @@
 {
   "name": "fastfood_client",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "license" : "SEE LICENSE IN LICENSE",
   "dependencies": {
     "@ant-design/icons": "^4.6.2",
