@@ -1,13 +1,11 @@
 import React, { useEffect, useState } from "react";
-import { Layout} from 'antd';
 
-const { Header, Sider, Content } = Layout;
-
+// Homepage
 export default function Home(props) {
 
   return (
     <>
-      HOMEPAGE
+      Home page content
     </>
   );
 }
