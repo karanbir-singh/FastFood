@@ -1,2 +1,1 @@
-
-[Elaborato](https://docs.google.com/viewer?url=https://github.com/karanbir-singh/FastFood/blob/master/Paper-Singh-Karanbir.pdf)
+<iframe src="https://docs.google.com/viewer?url=[http://infolab.stanford.edu/pub/papers/google.pdf](https://github.com/karanbir-singh/FastFood/blob/master/Paper-Singh-Karanbir.pdf)&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
